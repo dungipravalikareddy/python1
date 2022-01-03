@@ -1,4 +1,4 @@
-import as
+import os
 List1 = [6 ,8 ,4 ,1 ,9 ,5]
 List1.reverse()
 print("the reverse list is ", List1)
